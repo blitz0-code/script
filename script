@@ -1,0 +1,9 @@
+--// UI SCRIPT (VISUAL + SINGLE SOURCE OF TRUTH)
+--// LocalScript
+
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer--// SERVICES
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local Camera = workspace.CurrentCamera
